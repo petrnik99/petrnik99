@@ -1,0 +1,16 @@
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.exe
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.deps.json
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.runtimeconfig.json
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.runtimeconfig.dev.json
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.dll
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\ref\laskin.dll
+C:\Users\Somebody\source\repos\laskin\laskin\bin\Debug\net5.0\laskin.pdb
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.csproj.AssemblyReference.cache
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.AssemblyInfoInputs.cache
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.AssemblyInfo.cs
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.csproj.CoreCompileInputs.cache
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.dll
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\ref\laskin.dll
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.pdb
+C:\Users\Somebody\source\repos\laskin\laskin\obj\Debug\net5.0\laskin.genruntimeconfig.cache
